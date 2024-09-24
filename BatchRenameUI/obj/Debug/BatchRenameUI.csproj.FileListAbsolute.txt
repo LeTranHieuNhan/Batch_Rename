@@ -1,0 +1,138 @@
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\CVRules.txt
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.exe.config
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.exe
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.pdb
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\MainWindow.g.cs
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\App.g.cs
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI_MarkupCompile.cache
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI_MarkupCompile.lref
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\MainWindow.baml
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.g.resources
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.Properties.Resources.resources
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.GenerateResource.cache
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.CoreCompileInputs.cache
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.exe
+C:\Users\quanl\source\repos\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.pdb
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csprojAssemblyReference.cache
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\MainWindow.g.cs
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\App.g.cs
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI_MarkupCompile.cache
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI_MarkupCompile.lref
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.exe
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.pdb
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\CVRules.txt
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.exe.config
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.exe
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.pdb
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\MainWindow.baml
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.g.resources
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.Properties.Resources.resources
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.GenerateResource.cache
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.CoreCompileInputs.cache
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\AddPrefix.dll
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Contract.dll
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\OneSpaceOnlyRule.dll
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Replace.dll
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\AddPrefix.pdb
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Contract.pdb
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\OneSpaceOnlyRule.pdb
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Replace.pdb
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.CopyComplete
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\EditParametersWindow.g.cs
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\EditParametersWindow.baml
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.exe.config
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.exe
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.pdb
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Contract.dll
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Contract.pdb
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.AssemblyReference.cache
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\EditParametersWindow.g.cs
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\App.g.cs
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI_MarkupCompile.cache
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI_MarkupCompile.lref
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\EditParametersWindow.baml
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\MainWindow.baml
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.g.resources
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.Properties.Resources.resources
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.GenerateResource.cache
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.CopyComplete
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.exe
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.pdb
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Rules.dll
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Rules.pdb
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.exe.config
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.exe
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.pdb
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Contract.dll
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Rules.dll
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Contract.pdb
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Rules.pdb
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csprojAssemblyReference.cache
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\EditParametersWindow.g.cs
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\MainWindow.g.cs
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\App.g.cs
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI_MarkupCompile.cache
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI_MarkupCompile.lref
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\EditParametersWindow.baml
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\MainWindow.baml
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.g.resources
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.Properties.Resources.resources
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.GenerateResource.cache
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.CoreCompileInputs.cache
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.CopyComplete
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.exe
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.pdb
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\bin\Debug\BatchRenameUI.exe.config
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\bin\Debug\BatchRenameUI.exe
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\bin\Debug\BatchRenameUI.pdb
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\bin\Debug\Contract.dll
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\bin\Debug\Rules.dll
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\bin\Debug\Contract.pdb
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\bin\Debug\Rules.pdb
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.AssemblyReference.cache
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\EditParametersWindow.g.cs
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\App.g.cs
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\BatchRenameUI_MarkupCompile.cache
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\BatchRenameUI_MarkupCompile.lref
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\EditParametersWindow.baml
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\MainWindow.baml
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\BatchRenameUI.g.resources
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\BatchRenameUI.Properties.Resources.resources
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.GenerateResource.cache
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.CopyComplete
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\BatchRenameUI.exe
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\BatchRenameUI\obj\Debug\BatchRenameUI.pdb
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.exe.config
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.exe
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\BatchRenameUI.pdb
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Contract.dll
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Rules.dll
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Contract.pdb
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\bin\Debug\Rules.pdb
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csprojAssemblyReference.cache
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\EditParametersWindow.g.cs
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\MainWindow.g.cs
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\App.g.cs
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI_MarkupCompile.cache
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI_MarkupCompile.lref
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\EditParametersWindow.baml
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\MainWindow.baml
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.g.resources
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.Properties.Resources.resources
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.GenerateResource.cache
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.CoreCompileInputs.cache
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.csproj.CopyComplete
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.exe
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\BatchRenameUI\obj\Debug\BatchRenameUI.pdb

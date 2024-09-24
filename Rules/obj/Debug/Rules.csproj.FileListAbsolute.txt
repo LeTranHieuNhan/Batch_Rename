@@ -1,0 +1,36 @@
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\Rules\bin\Debug\Rules.dll
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\Rules\bin\Debug\Rules.pdb
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\Rules\bin\Debug\Contract.dll
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\Rules\bin\Debug\Contract.pdb
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\Rules\obj\Debug\Rules.csproj.AssemblyReference.cache
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\Rules\obj\Debug\Rules.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\Rules\obj\Debug\Rules.csproj.CopyComplete
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\Rules\obj\Debug\Rules.dll
+C:\Users\Acer\source\C#\Advanced OOP - Lab9\Rules\obj\Debug\Rules.pdb
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\Rules\bin\Debug\Rules.dll
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\Rules\bin\Debug\Rules.pdb
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\Rules\bin\Debug\Contract.dll
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\Rules\bin\Debug\Contract.pdb
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\Rules\obj\Debug\Rules.csprojAssemblyReference.cache
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\Rules\obj\Debug\Rules.csproj.CoreCompileInputs.cache
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\Rules\obj\Debug\Rules.csproj.CopyComplete
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\Rules\obj\Debug\Rules.dll
+C:\Users\quanl\Downloads\Advanced_OOP_-_Lab9 (2)\Advanced OOP - Lab9\Rules\obj\Debug\Rules.pdb
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\Rules\bin\Debug\Rules.dll
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\Rules\bin\Debug\Rules.pdb
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\Rules\bin\Debug\Contract.dll
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\Rules\bin\Debug\Contract.pdb
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\Rules\obj\Debug\Rules.csproj.AssemblyReference.cache
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\Rules\obj\Debug\Rules.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\Rules\obj\Debug\Rules.csproj.CopyComplete
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\Rules\obj\Debug\Rules.dll
+C:\Users\Acer\source\C#\Advanced OOP - Lab9(finish)\Rules\obj\Debug\Rules.pdb
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\Rules\bin\Debug\Rules.dll
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\Rules\bin\Debug\Rules.pdb
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\Rules\bin\Debug\Contract.dll
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\Rules\bin\Debug\Contract.pdb
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\Rules\obj\Debug\Rules.csprojAssemblyReference.cache
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\Rules\obj\Debug\Rules.csproj.CoreCompileInputs.cache
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\Rules\obj\Debug\Rules.csproj.CopyComplete
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\Rules\obj\Debug\Rules.dll
+C:\Users\quanl\Downloads\2159014_2159020_2159023\Advanced OOP - Lab9\Rules\obj\Debug\Rules.pdb

@@ -1,0 +1,25 @@
+﻿<Window x:Class="BatchRenameUI.EditParametersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BatchRenameUI"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Closed="Window_Closed"
+        Title="EditParametersWindow" Height="230" Width="300">
+    <StackPanel>
+        <StackPanel.Background>
+            <ImageBrush ImageSource="/edit_screen_grey_white.jpg"/>
+        </StackPanel.Background>
+        <StackPanel x:Name="s" HorizontalAlignment="Center" Margin="10">
+            
+        </StackPanel>
+
+        <Button Content="OK"
+                Click="OK_Click"
+                Width="80"
+                Height="25"
+                Margin="10" FontFamily=".VnMystical"/>
+    </StackPanel>
+</Window>
